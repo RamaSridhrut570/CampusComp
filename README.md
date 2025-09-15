@@ -56,7 +56,7 @@ src/
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/campus-companion.git
+git clone https://github.com/yourusername/campus-companion.git](https://github.com/RamaSridhrut570/CampusComp.git
 cd campus-companion
 ```
 
