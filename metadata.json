@@ -1,0 +1,5 @@
+{
+  "name": "Campus Companion",
+  "description": "A lightweight, distraction-free website offering simple offline productivity tools for students. Includes a budget manager, Pomodoro timer, to-do list, and habit tracker, with all data saved locally.",
+  "requestFramePermissions": []
+}
